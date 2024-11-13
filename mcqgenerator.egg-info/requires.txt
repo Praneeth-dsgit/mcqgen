@@ -5,5 +5,3 @@ streamlit
 torch
 python-dotenv
 PyPDF2
-
--e .
