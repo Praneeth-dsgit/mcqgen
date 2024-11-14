@@ -1,10 +1,12 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: mcqgenerator
 Version: 0.0.1
-Summary: UNKNOWN
-Home-page: UNKNOWN
 Author: praneeth reddy
 Author-email: praneethreddy954@gmail.com
-License: UNKNOWN
-Description: UNKNOWN
-Platform: UNKNOWN
+Requires-Dist: huggingface_hub
+Requires-Dist: transformers
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: torch
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
